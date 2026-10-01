@@ -11,7 +11,7 @@ function App() {
       <p>Andrés Salazar</p>
       <p>Carlos Soto</p>
       <p>Yahir Rangel</p>
-      <p>Curso: Laboratorio DevOps AWS</p>
+      <p>Curso: Laboratorio DevOps</p>
     </main>
   )
 }
